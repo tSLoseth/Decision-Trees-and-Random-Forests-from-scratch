@@ -1,7 +1,6 @@
 # Decision Trees and Random Forests from Scratch
 
 > Completed for **INF264 — Introduction to Machine Learning**, University of Bergen, fall 2025.
-> Final grade: **100%**.
 
 **Authors:** Thomas Strønstad-Løseth · Trym Oscar Lillevik Bårdsen
 
